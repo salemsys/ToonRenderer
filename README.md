@@ -20,3 +20,9 @@ Toggle Make A Toon GUI | F2
 - Proper documentation of animation names
 - Setting accessories for your Toon
 - Finish adding all Toontown Rewritten exclusive clothing and species. (Sorry, deer Toons!)
+
+# Credits
+
+- [School-House-Py3](https://github.com/OSToontown/School-House-Py3
+- [Panda3D](https://github.com/panda3d/panda3d)
+- Reverse-engineered Toontown Online source code is property of The Walt Disney Company.
