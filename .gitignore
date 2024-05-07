@@ -1,0 +1,4 @@
+resources/*
+screenshots/
+.idea/
+__pycache__/
