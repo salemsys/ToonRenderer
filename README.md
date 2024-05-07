@@ -23,6 +23,6 @@ Toggle Make A Toon GUI | F2
 
 # Credits
 
-- [School-House-Py3](https://github.com/OSToontown/School-House-Py3
+- [School-House-Py3](https://github.com/OSToontown/School-House-Py3)
 - [Panda3D](https://github.com/panda3d/panda3d)
 - Reverse-engineered Toontown Online source code is property of The Walt Disney Company.
